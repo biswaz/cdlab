@@ -1,0 +1,8 @@
+printf("hello");
+int a_b;
+int main(){
+a=b+c;
+}
+void ret(){
+a_b++;
+}
